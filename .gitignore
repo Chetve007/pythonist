@@ -1,0 +1,11 @@
+# dirs
+.idea/
+venv/
+
+# files
+*.txt
+*.dat
+*.log
+
+# ignore rules
+!requirements.txt
